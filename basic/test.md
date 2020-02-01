@@ -1,4 +1,4 @@
-#This is the title
+# This is the title
 this is some more about the note
 ## Next heading
 Before you do this,you need to review these three things
@@ -14,4 +14,4 @@ The other things you need to know:
 This is some ""bold"" text
 This is some "italic" text
 **********************************
-For more information please visit [Podmedics](https://www.sina.com.cn "new web site")
+For more information please visit [网站](https://www.sina.com.cn "new web site")
